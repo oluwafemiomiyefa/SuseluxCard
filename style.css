@@ -37,17 +37,18 @@ div.box3{
 }
 
 h2 {
-    font-size: 20px;
     color: white;
     font-weight: 700;
-    font-family: "Big Shoulders Display";
+    font-size: 20px;
+    font-family: "Big Shoulders Display", "serif";
     padding-top: 20px;
 }
 
 p {
     color: white;
-    font-size: 15px;
-    font-family: "Lexend Deca";
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Lexend Deca", "serif";
     padding-top: 20px;
 }
 
